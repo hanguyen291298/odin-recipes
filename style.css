@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    color: salmon;
+    text-align: center;
+
+}
+h1{
+    font-weight: bold;
+    font-size: 32px;
+    
+    
+    
+}
+
+.recipes li a{
+    text-decoration: none;
+    
+}
+.recipes li{
+    text-align: left;
+}
